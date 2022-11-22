@@ -18,10 +18,7 @@
   },
   "homepage": "https://github.com/Cristianc144/generate-random-message#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "generate-random-message": "./bin/global.js"
   },
-  "preferGlobal": true,
-  "dependencies": {
-    "g": "^2.0.1"
-  }
+  "preferGlobal": true
 }
