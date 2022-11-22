@@ -1,16 +1,16 @@
 const messages = [
-    "This is where it all begins...",
-    "Commit committed",
-    "Version control is awful",
-    "COMMIT ALL THE FILES!",
-    "The same thing we do every night, Pinky - try to take over the world!",
-    "Lock S-foils in attack position",
-    "This commit is a lie",
-    "I'll explain when you're older!",
-    "Here be Dragons",
-    "Reinventing the wheel. Again.",
-    "This is not the commit message you are looking for",
-    "Batman! (this commit has no parents)",
+    "Ask not what your country can do for you; ask what you can do for your country",
+    "Eighty percent of success is showing up",
+    "For those to whom much is given, much is required.",
+    "Go ahead, make my day",
+    "Houston, we have a problem.",
+    "If at first you don’t succeed, try, try again.",
+    "If you build it, they will come.",
+    "To be or not to be, that is the question.",
+    "Knowledge is power.",
+    "The love of money is the root of all evil.",
+    "There's no place like home.",
+    "You must be the change you wish to see in the world.",
   ];
   
   const funnyCommit = () => {
