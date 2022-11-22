@@ -1,0 +1,27 @@
+{
+  "name": "generate-random-message",
+  "version": "1.0.0",
+  "description": "The main goal is to generate Random Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristianc144/generate-random-message.git"
+  },
+  "keywords": [],
+  "author": "Cristian Ferney Caicedo Castillo <cfcaicedoca@unal.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cristianc144/generate-random-message/issues"
+  },
+  "homepage": "https://github.com/Cristianc144/generate-random-message#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
